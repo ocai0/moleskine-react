@@ -1,0 +1,20 @@
+.backdrop {
+  position: absolute;
+  z-index: 3;
+  inset: 0 0 0 0;
+  background-color: #12121277;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal {
+  padding: 1em;
+  border-radius: .5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.modal button {
+  margin: 0 .25em;
+}

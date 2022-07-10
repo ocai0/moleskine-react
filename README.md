@@ -5,3 +5,4 @@ Hello, and welcome to this new moleskine series. The idea here is more to get a 
 
 Current notes (date ascending):
  - [Creating a Basic App](./projects/vite-proof/notes/creating-a-basic-app.md)
+ - [What are components](./projects/basic-todo-list/notes/what-are-components.md)
